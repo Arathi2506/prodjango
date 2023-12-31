@@ -1,0 +1,15 @@
+body
+{
+background-color:green;
+color:blue;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:yellow;
+  color: white;
+  text-align: center;
+}
